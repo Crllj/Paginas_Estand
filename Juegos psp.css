@@ -1,0 +1,50 @@
+body{
+    background-color: aliceblue ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.div1{
+
+    background-image: url(img/crisis_core_ffvii_reunion_01.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 150px;
+
+    text-align: center;
+    color: white;
+
+    font-size: 60px;
+}
+
+
+.div2{
+    background-image: url(img/grand-theft-auto-vice-city-stories-03.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+table, th,td{
+    
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+}
+
+.th1{
+
+    font-size: 24px;
+}
+
+th,td{
+    padding: 25px;
+}
+
+td{
+    font-size: 23px;
+}
+
+caption{
+    font-size: 30px;
+}

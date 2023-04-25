@@ -1,0 +1,98 @@
+body{
+    background-image: url(img/depositphotos_318056546-stock-photo-moscow-russia-juney-2019-white.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header{
+    display: flex;
+    min-height: 400px;
+    background-color: black;
+    justify-content: space-between;
+    align-items:center;
+    padding: 10ppx;
+    border: 10px solid #00FFFF ;
+}
+
+.log{
+    display: flex;
+    align-items: center;
+}
+
+.img-logo{
+    height: 150px;
+    margin-right: 50px;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    padding: 30px;
+    justify-content: center;
+    display: inline-block;
+    background-color: white;
+    border: 5px solid #00FFFF ;
+    
+    
+}
+
+nav a{
+    font-weight: 200px;
+    padding-right: 20px;
+}
+
+nav a:hover{
+    color: #00FFFF ;
+}
+
+.div2{
+
+    background-image: url(img/1920x1080-Top-25-juegos-de-Xbox-One-que-necesitas-jugar-1024x576.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    color: white;
+
+
+}
+
+.parra1{
+    font-size: 40px;
+    text-align: left;
+}
+
+.genera-xb{
+    text-align: left;
+    font-size: 30px;
+}
+
+.parra2{
+    font-size: 40px ;
+    text-align: left;
+}
+
+.genera2-xb{
+    font-size: 30px;
+    text-align: left;
+}
+
+.parra3{
+    font-size: 40px;
+    text-align: left;
+}
+
+.genera3-xb{
+    font-size: 30px;
+    text-align: left;
+}
+
+.color{
+    color:  white;
+    background-color: #316865;
+    border: 10px solid black;
+}

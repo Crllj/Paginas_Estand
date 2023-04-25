@@ -1,0 +1,41 @@
+body{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+table,th,td{
+    
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+}
+
+.div2{
+    background-image: url(img/HD-wallpaper-mortal-kombat-logo-sub-zero-mortal-kombat.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+caption{
+    font-size: 30px;
+}
+
+.th1{
+
+    font-size: 24px;
+}
+
+th{
+    font-size: 30px;
+}
+
+td{
+    padding: 25px;
+}
+
+td{
+    font-size: 25px;
+}
+

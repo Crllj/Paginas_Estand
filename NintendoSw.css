@@ -1,0 +1,90 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.div1{
+
+    background-image: url(img/mejores-juegos-nintendo-switch-og.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 100px;
+
+    
+    
+    
+}
+
+header{
+
+    display: flex;
+    min-height: 120px;
+    background-color: #F0FFFF;
+    justify-content: space-between;
+    align-items:center;
+    padding: 10ppx;
+    border: 15px solid  black
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.img-logo{
+
+    height: 120px;
+    margin-right: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    padding: 30px;
+    justify-content: center;
+    display: inline-block;
+    background-color: black;
+    border: 5px solid #00FFFF ;
+}
+
+nav a{
+    font-weight: 100px;
+    padding-right: 40px;
+}
+
+
+nav a:hover{
+    color: aqua;
+}
+
+.div2{
+
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+
+
+}
+
+.Ul1{
+
+    text-align: left;
+    font-size: 25px;
+}
+
+.Ul2{
+
+    text-align: left;
+    font-size: 25px;
+}
+
+
+.verif{
+    color:  white;
+    background-color: tomato;
+    border: 10px solid black;
+}
+
+

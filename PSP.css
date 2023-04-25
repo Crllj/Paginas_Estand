@@ -1,0 +1,77 @@
+body{
+    background-image: url(img/290-2905241_dragon-ball-z-games-40-anime-wallpaper-para.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header{
+    display: flex;
+    min-height: 50px;
+    background-color: black;
+    justify-content: space-betweeng;
+    align-items: center;
+    align-items:center;
+    padding: 20px;
+    border: 5px solid #FFD700;
+}
+
+.log1{
+
+    display: flex;
+    align-items: center;
+}
+
+.img1{
+
+    height: 90px;
+    margin-right: 80px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    padding: 30px;
+    justify-content: center;
+    display: inline-block;
+    background-color: white ;
+    border: 5px solid #FFD700;
+}
+
+nav a{
+    font-weight: 100px;
+    padding-right: 80px;
+}
+
+
+
+nav a:hover{
+    color: #008080;
+
+}
+
+.div2{
+
+    background-image: url(img/HD-wallpaper-mortal-kombat-action-cool-fight-game-mortalkombat-new-psp-video-war-xbox-thumbnail.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    color: white;
+    text-align: center;
+}
+
+.ph2{
+    text-align: left;
+    font-size: 28px;
+}
+
+.ol-numero1{
+
+    text-align: left;
+    font-size: 25px;
+}
+
+e
+

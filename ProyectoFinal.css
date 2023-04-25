@@ -1,0 +1,85 @@
+body{
+    background-image: url(img/high-score.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+a{
+    text-decoration: none;
+    background: #000000;
+    color: white;
+    font-size: larger;
+    padding: 20px;
+    border: 10px solid white;
+    
+    
+    
+}
+
+header{
+    display: flex;
+    min-height: 70px;
+    background: rgba(71, 172, 255, 0.63);
+    justify-content: space-between;
+    align-items:center;
+    padding: 10px;
+
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo-img{
+    height: 100px;
+    margin-right: 80px;
+}
+
+nav a{
+    font-weight: 200px;
+    padding-right: 40px;
+}
+
+nav a:hover{
+    color: #008080;
+
+}
+
+
+
+.font{
+    background-image: url(img/crash-bandicoot-psx.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    padding: 200px;
+    font-size: 30px;
+    border: 10px solid white;
+    
+    justify-content: center;
+    text-align: center;  
+    align-items: center;
+
+    color: white;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    
